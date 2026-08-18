@@ -1,0 +1,20 @@
+# Reportes de practica: excluidos del repositorio publico.
+# Contienen numero de control y nombre de terceros en el encabezado.
+*.docx
+*.pdf
+
+# Comprimido de la practica 23: contenido sin verificar, puede incluir reportes.
+*.rar
+*.zip
+
+# temporales de Inventor
+*.ipt.*
+*.iam.*
+
+# temporales de LabVIEW
+*.lvlps
+
+# entorno
+Thumbs.db
+.DS_Store
+desktop.ini
